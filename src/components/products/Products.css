@@ -1,0 +1,13 @@
+.Products
+{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.Item
+{
+    margin: 3vh 20vh 3vh 20vh;
+}
